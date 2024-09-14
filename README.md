@@ -7,13 +7,11 @@
 <br/>
 
 <div align="center">
-
  🌱 I’m currently learning **Python, SQL, Data, Laravel, React.js, Kotlin, Flutter**
 
  💬 Ask me about **Python, PHP, Java, Mysql... or whatever [here](https://github.com/robet31)**
 
  ⚡ Interesting facts about **One Piece, Sword Art Online and more...**
-
  </div>
 
 <div align="center">
@@ -25,8 +23,8 @@
 	    <a href="https://www.behance.net/arraffiabqorina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/arraffiabqorina" height="30" width="40" /></a>
 	</p>
 </div>
-<br><br>
 
+<br>
 <hr>
 
 ## Activity and Statistics

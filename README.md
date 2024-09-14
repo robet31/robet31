@@ -8,7 +8,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Laravel, React.js, Kotlin, Flutter and Data**
+ 🌱 I’m currently learning **Python, SQL, Data, Laravel, React.js, Kotlin, Flutter**
 
  🔭 I'm a full stack developer **Web, Desktop and Mobile Applications**
 

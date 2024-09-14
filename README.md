@@ -36,5 +36,5 @@
 
 <div align="center">
 	<br/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=robet31&theme=graywhite&hide_border=false" alt="robet31" height="150em"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=robet31&theme=graywhite&hide_border=false&fire=EBA108" alt="robet31" height="150em"/>
 </div>

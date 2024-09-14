@@ -27,3 +27,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="robet31" /></p>
 
 
+<hr>
+
+## Activity and Statistics
+<p align="center">
+	<br/> &nbsp;
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="robet31" height="170em"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=robet31&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="robet31" height="170em"/>
+</p>
+
+
+<div align="center">
+	<br/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=robet31&theme=graywhite&hide_border=false" alt="robet31" />
+</div>
+
+<hr>
+
+<div align="center"> 
+	<br/>
+	<p>Visitor count</p>
+	<a href="https://github.com/robet31">
+  	<img src="https://profile-counter.glitch.me/robet31/count.svg" />
+	</a>
+	<p>Araphy</p>
+</div>

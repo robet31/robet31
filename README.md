@@ -30,7 +30,7 @@
 ## Activity and Statistics
 <p align="center">
 	<br/> &nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="robet31" height="150em"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="robet31" height="120em"/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=robet31&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="robet31" height="150em"/>
 </p>
 

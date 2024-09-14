@@ -15,7 +15,7 @@
  ⚡ Interesting facts about **One Piece, Sword Art Online and more...**
 
  </div>
-
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/ar-raffi-abqori-nur-azizi-43997428a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ar-raffi-abqori-nur-azizi-43997428a/" height="30" width="40" /></a>
@@ -23,9 +23,7 @@
     <a href="https://dribbble.com/ravnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/ravnx" height="30" width="40" /></a>
     <a href="https://www.behance.net/arraffiabqorina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/arraffiabqorina" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="robet31" /></p>
-
+ </div>
 
 <hr>
 
@@ -40,15 +38,4 @@
 <div align="center">
 	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=robet31&theme=graywhite&hide_border=false" alt="robet31" />
-</div>
-
-<hr>
-
-<div align="center"> 
-	<br/>
-	<p>Visitor count</p>
-	<a href="https://github.com/robet31">
-  	<img src="https://profile-counter.glitch.me/robet31/count.svg" />
-	</a>
-	<p>Araphy</p>
 </div>

@@ -10,8 +10,6 @@
 
  🌱 I’m currently learning **Python, SQL, Data, Laravel, React.js, Kotlin, Flutter**
 
-<-- 🔭 I'm a full stack developer **Web, Desktop and Mobile Applications** -->
-
  💬 Ask me about **Python, PHP, Java, Mysql... or whatever [here](https://github.com/robet31)**
 
  ⚡ Interesting facts about **One Piece, Sword Art Online and more**

@@ -7,11 +7,13 @@
 <br/>
 
 <div align="center">
+
  🌱 I’m currently learning **Python, SQL, Data, Laravel, React.js, Kotlin, Flutter**
 
  💬 Ask me about **Python, PHP, Java, Mysql... or whatever [here](https://github.com/robet31)**
 
  ⚡ Interesting facts about **One Piece, Sword Art Online and more...**
+
  </div>
 
 <div align="center">

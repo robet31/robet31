@@ -10,16 +10,12 @@
 
 ---
 
-<p align="center">
-  <b>RAVNXX</b>
-</p>
-
-```
-                    ██████   █████   ██    ██  ██   ██  ██   ██
-                    ██   ██  ██   ██  ██  ██   ██  ██   ██  ██
-                    ██████   ███████   ████    █████    █████
-                    ██   ██  ██   ██    ██     ██  ██   ██  ██
-                    ██   ██  ██   ██    ██     ██   ██  ██   ██
+```text
+                     RRRRR    AAA    V   V   N   N   X   X   X   X
+                     R   R   A   A   V   V   NN  N    X X     X X
+                     RRRRR   AAAAA    V V    N N N     X       X
+                     R  R    A   A    V     N  NN    X X     X X
+                     R   R   A   A    V     N   N   X   X   X   X
 ```
 
 <p align="center">
@@ -29,7 +25,7 @@
 <p align="center">
   <b>Exploring:</b> Python, Data, Laravel, React.js, Kotlin, Flutter
   <br/>
-  <b>Ask me about:</b> Python, PHP, Java, MySQL — <a href="https://github.com/robet31">open an issue</a>
+  <b>Ask me about:</b> Python, PHP, Java, MySQL
   <br/>
   <b>Interests:</b> One Piece . Sword Art Online . Gaming & Tech
 </p>
@@ -57,7 +53,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robet31/robet31/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/robet31/robet31/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
@@ -80,6 +76,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0E75B6,100:00FF00&height=120&section=header&text=RAVNXX&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0E75B6,100:00FF00&height=120&section=header&text=RAVNXX&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:0E75B6&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Keep%20Coding!&fontAlign=50&fontSize=20" />
 </p>

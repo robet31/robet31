@@ -1,29 +1,33 @@
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=robet31&label=Profile%20Views&color=0e75b6&style=flat" alt="robet31" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;I'm+RAVNX!;Informatics+Engineering+Student;Data+%26+Web+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;I'm+RAVNXX!;Informatics+Engineering+Student;Data+%26+Web+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
 ---
 
+<p align="center">
+  <b>RAVNXX</b>
+</p>
+
 ```
-██████  █████  ██    ██ ███    ██ ██   ██
-██   ██ ██   ██ ██  ██  ████   ██ ██  ██
-██████  ███████  ████   ██ ██  ██ █████
-██   ██ ██   ██   ██    ██  ██ ██ ██  ██
-██   ██ ██   ██   ██    ██   ████ ██   ██
+                    ██████   █████   ██    ██  ██   ██  ██   ██
+                    ██   ██  ██   ██  ██  ██   ██  ██   ██  ██
+                    ██████   ███████   ████    █████    █████
+                    ██   ██  ██   ██    ██     ██  ██   ██  ██
+                    ██   ██  ██   ██    ██     ██   ██  ██   ██
 ```
 
 <p align="center">
-  <b>Informatics Engineering</b> @ <i>Universitas Trunojoyo Madura</i>
+  <i>Informatics Engineering @ Universitas Trunojoyo Madura</i>
 </p>
 
 <p align="center">
-  <b>Currently Exploring:</b> Python, Data, Laravel, React.js, Kotlin, Flutter
+  <b>Exploring:</b> Python, Data, Laravel, React.js, Kotlin, Flutter
   <br/>
   <b>Ask me about:</b> Python, PHP, Java, MySQL — <a href="https://github.com/robet31">open an issue</a>
   <br/>
@@ -42,41 +46,23 @@
 
 ---
 
-## Discord Status
+## Top Languages
 
 <p align="center">
-  <img src="https://api.lanyard.rest/v1/users/1236361431524311188" alt="Discord" />
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/lanyard">
-    <img src="https://img.shields.io/badge/Join%20Lanyard-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Lanyard" />
-  </a>
-  <a href="https://discord.com/users/1236361431524311188">
-    <img src="https://img.shields.io/badge/Add%20Friend-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Friend" />
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </p>
 
 ---
 
-## GitHub Stats
+## Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="160em" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160em" />
+  <img src="https://raw.githubusercontent.com/robet31/robet31/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robet31&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&line=58A6FF&point=1E88E5&color=58A6FF&area_color=58A6FF" alt="Activity Graph" />
-</p>
-
----
-
-## Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arraffi-abqori-nur-azizi/" target="_blank">
@@ -94,5 +80,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00FF00&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0E75B6,100:00FF00&height=120&section=header&text=RAVNXX&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:0E75B6&height=100&section=footer" />
 </p>

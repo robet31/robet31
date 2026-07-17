@@ -3,24 +3,22 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robet31/robet31/main/ascii.svg" alt="RAVNXX" />
+  <img src="https://raw.githubusercontent.com/robet31/robet31/main/ascii.svg" width="65%" alt="RAVNXX" />
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Informatics Engineering</b> — <i>Universitas Trunojoyo Madura</i>
 </p>
 
 <p align="center">
-  <i>Informatics Engineering @ Universitas Trunojoyo Madura</i>
+  Python &bull; Data &bull; Laravel &bull; React &bull; Kotlin &bull; Flutter
 </p>
 
-<p align="center">
-  <b>Exploring:</b> Python, Data, Laravel, React.js, Kotlin, Flutter
-  <br/>
-  <b>Ask me about:</b> Python, PHP, Java, MySQL
-  <br/>
-  <b>Interests:</b> One Piece . Sword Art Online . Gaming & Tech
-</p>
+<br/>
 
----
-
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,25 +26,25 @@
   </a>
 </p>
 
----
+<br/>
 
-## Top Languages
+<h2 align="center">Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Top Languages" />
 </p>
 
----
+<br/>
 
-## Contribution Snake
+<h2 align="center">Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/robet31/robet31/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
----
+<br/>
 
-## Connect
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arraffi-abqori-nur-azizi/" target="_blank">
@@ -56,7 +54,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://dribbble.com/ravnx" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+    <img src="https://img.shields.io/badge/Dribbble-EA4C85?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
   </a>
   <a href="https://www.behance.net/arraffiabqorina" target="_blank">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />

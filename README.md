@@ -75,6 +75,16 @@ interests:
 
 ---
 
+### 🎮 Discord Status
+
+<p align="center">
+  <a href="https://discord.com/users/1236361431524311188">
+    <img src="https://lanyard.cnrad.dev/api/1236361431524311188?idleMessage=AFK+maybe&amp;hideDiscrim=true&amp;borderRadius=10px" alt="Discord" />
+  </a>
+</p>
+
+---
+
 ### 📬 Connect With Me
 
 <p align="center">

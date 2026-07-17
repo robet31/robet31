@@ -11,21 +11,21 @@
 ---
 
 ```
-  ___  _   _  ____  ____   __     __   _   _  _____  _   _
- / _ \| | | |/ ___||  _ \  \ \   / /  | \ | ||_   _|| \ | |
-| | | | | | |\___ \| |_) |  \ \ / /   |  \| |  | |  |  \| |
-| |_| | |_| | ___) |  __/    \ V /    | |\  |  | |  | |\  |
- \___/ \___/ |____/|_|        \_/     |_| \_|  |_|  |_| \_|
+██████  █████  ██    ██ ███    ██ ██   ██
+██   ██ ██   ██ ██  ██  ████   ██ ██  ██
+██████  ███████  ████   ██ ██  ██ █████
+██   ██ ██   ██   ██    ██  ██ ██ ██  ██
+██   ██ ██   ██   ██    ██   ████ ██   ██
 ```
 
 <p align="center">
-  <b>RAVNX</b> — Informatics Engineering @ <i>Universitas Trunojoyo Madura</i>
+  <b>Informatics Engineering</b> @ <i>Universitas Trunojoyo Madura</i>
 </p>
 
 <p align="center">
   <b>Currently Exploring:</b> Python, Data, Laravel, React.js, Kotlin, Flutter
   <br/>
-  <b>Ask me about:</b> Python, PHP, Java, MySQL, or <a href="https://github.com/robet31">anything here</a>
+  <b>Ask me about:</b> Python, PHP, Java, MySQL — <a href="https://github.com/robet31">open an issue</a>
   <br/>
   <b>Interests:</b> One Piece . Sword Art Online . Gaming & Tech
 </p>
@@ -45,12 +45,17 @@
 ## Discord Status
 
 <p align="center">
-  <a href="https://discord.com/users/1236361431524311188">
-    <img src="https://lanyard.cnrad.dev/api/1236361431524311188?idleMessage=Probably%20coding...&hideDiscrim=true&borderRadius=10px" alt="Discord" />
-  </a>
+  <img src="https://api.lanyard.rest/v1/users/1236361431524311188" alt="Discord" />
 </p>
 
-> Note: Join the Lanyard Discord server to activate this widget: https://discord.gg/lanyard
+<p align="center">
+  <a href="https://discord.gg/lanyard">
+    <img src="https://img.shields.io/badge/Join%20Lanyard-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Lanyard" />
+  </a>
+  <a href="https://discord.com/users/1236361431524311188">
+    <img src="https://img.shields.io/badge/Add%20Friend-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Friend" />
+  </a>
+</p>
 
 ---
 
@@ -60,20 +65,6 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="160em" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160em" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robet31&theme=tokyonight&hide_border=true" alt="Streak Stats" height="160em" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robet31&theme=tokyonight&no-frame=true&margin-w=15&column=6&row=1" alt="Trophy" />
-</p>
-
-> Note: Trophy & Streak services may be temporarily down. They will show up once the services are restored.
 
 ---
 

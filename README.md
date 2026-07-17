@@ -10,13 +10,6 @@
 
 ---
 
-<!-- spotify:start -->
-### 🎧 Now Playing
-🎵 _Nothing playing right now — check back later!_
-<!-- spotify:end -->
-
----
-
 ### 👨‍💻 About Me
 
 ```yaml

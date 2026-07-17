@@ -19,7 +19,7 @@
 ```
 
 <p align="center">
-  <b>Informatics Engineering</b> @ <i>Universitas Trunojoyo Madura</i>
+  <b>RAVNX</b> — Informatics Engineering @ <i>Universitas Trunojoyo Madura</i>
 </p>
 
 <p align="center">
@@ -50,13 +50,15 @@
   </a>
 </p>
 
+> Note: Join the Lanyard Discord server to activate this widget: https://discord.gg/lanyard
+
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160em" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="160em" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robet31&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160em" />
 </p>
 
 <p align="center">
@@ -70,6 +72,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=robet31&theme=tokyonight&no-frame=true&margin-w=15&column=6&row=1" alt="Trophy" />
 </p>
+
+> Note: Trophy & Streak services may be temporarily down. They will show up once the services are restored.
 
 ---
 

@@ -10,19 +10,18 @@
 
 ---
 
-### ðŸŽ§ Now Playing
-
-<a href="https://open.spotify.com/user/31b53s4sj6gxbag5jgnpwgrlhzry">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31b53s4sj6gxbag5jgnpwgrlhzry&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify" />
-</a>
+<!-- spotify:start -->
+### 🎧 Now Playing
+🎵 _Nothing playing right now — check back later!_
+<!-- spotify:end -->
 
 ---
 
-### ðŸ‘¨â€ðŸ’» About Me
+### 👨‍💻 About Me
 
 ```yaml
 name: Ar'raffi Abqori Nur Azizi
-located_in: Indonesia ðŸ‡®ðŸ‡©
+located_in: Indonesia 🇮🇩
 education: Informatics Engineering @ Universitas Trunojoyo Madura
 currently_learning:
   - Python & Data Analysis
@@ -37,14 +36,14 @@ ask_me_about:
   - Machine Learning
 
 interests:
-  - One Piece ðŸ´â€â˜ ï¸
-  - Sword Art Online âš”ï¸
+  - One Piece 🏴‍☠️
+  - Sword Art Online ⚔️
   - Gaming & Tech
 ```
 
 ---
 
-### ðŸ› ï¸ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -54,7 +53,7 @@ interests:
 
 ---
 
-### ðŸ“Š GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="170em" />
@@ -67,7 +66,7 @@ interests:
 
 ---
 
-### ðŸ† GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=robet31&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophy" />
@@ -75,7 +74,7 @@ interests:
 
 ---
 
-### ðŸ“ˆ Activity Graph
+### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robet31&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
@@ -83,7 +82,7 @@ interests:
 
 ---
 
-### ðŸ“¬ Connect With Me
+### 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arraffi-abqori-nur-azizi/" target="_blank">

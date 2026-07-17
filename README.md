@@ -10,13 +10,13 @@
 
 ---
 
-```text
-                     RRRRR    AAA    V   V   N   N   X   X   X   X
-                     R   R   A   A   V   V   NN  N    X X     X X
-                     RRRRR   AAAAA    V V    N N N     X       X
-                     R  R    A   A    V     N  NN    X X     X X
-                     R   R   A   A    V     N   N   X   X   X   X
-```
+<pre align="center">
+                    ██████   █████   ██    ██  ██   ██  ██   ██
+                    ██   ██  ██   ██  ██  ██   ██  ██   ██  ██
+                    ██████   ███████   ████    █████    █████
+                    ██   ██  ██   ██    ██     ██  ██   ██  ██
+                    ██   ██  ██   ██    ██     ██   ██  ██   ██
+</pre>
 
 <p align="center">
   <i>Informatics Engineering @ Universitas Trunojoyo Madura</i>
@@ -73,13 +73,4 @@
   <a href="https://www.behance.net/arraffiabqorina" target="_blank">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0E75B6,100:00FF00&height=120&section=header&text=RAVNXX&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:0E75B6&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Keep%20Coding!&fontAlign=50&fontSize=20" />
 </p>

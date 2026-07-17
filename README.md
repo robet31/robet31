@@ -1,42 +1,105 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=robet31&label=Profile%20views&color=0e75b6&style=flat" alt="Ar'raffi Abqori Nur Azizi" /> </p>
-
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=A9F72F&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;+I'm+Ar'raffi+Abqori+Nur+Azizi!" alt="Typing SVG" /></a>
-</h1>
-
-<br/>
-
-<div align="center">
-
- 🌱 I’m currently learning **Python, SQL, Data, Laravel, React.js, Kotlin, Flutter**
-
- 💬 Ask me about **Python, PHP, Java, Mysql... or whatever [here](https://github.com/robet31)**
-
- ⚡ Interesting facts about **One Piece, Sword Art Online and more...**
-
- </div>
-
-<div align="center">
-	<h3 align="left">Connect with me:</h3>
-	<p align="left">
-	    <a href="https://www.linkedin.com/in/arraffi-abqori-nur-azizi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arraffi-abqori-nur-azizi/" height="30" width="40" /></a>
-	    <a href="https://www.instagram.com/ravnxx_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ravnxx_/" height="30" width="40" /></a>
-	    <a href="https://dribbble.com/ravnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/ravnx" height="30" width="40" /></a>
-	    <a href="https://www.behance.net/arraffiabqorina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/arraffiabqorina" height="30" width="40" /></a>
-	</p>
-</div>
-
-<br>
-<hr>
-
-## Activity and Statistics
-<p align="center">
-	<br/> &nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact&locale=en" alt="robet31" height="150em"/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=robet31&theme=graywhite&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="robet31" height="150em"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=robet31&label=Profile%20Views&color=0e75b6&style=flat" alt="robet31" />
 </p>
 
-<div align="center">
-	<br/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=robet31&theme=graywhite&hide_border=false&fire=EBA108" alt="robet31" height="150em"/>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=A9F72F&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ar'raffi+Abqori+Nur+Azizi!;Informatics+Engineering+Student;Data+%26+Web+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
+
+---
+
+### ðŸŽ§ Now Playing
+
+<a href="https://open.spotify.com/user/31b53s4sj6gxbag5jgnpwgrlhzry">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31b53s4sj6gxbag5jgnpwgrlhzry&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify" />
+</a>
+
+---
+
+### ðŸ‘¨â€ðŸ’» About Me
+
+```yaml
+name: Ar'raffi Abqori Nur Azizi
+located_in: Indonesia ðŸ‡®ðŸ‡©
+education: Informatics Engineering @ Universitas Trunojoyo Madura
+currently_learning:
+  - Python & Data Analysis
+  - Laravel & React.js
+  - Kotlin & Flutter
+  - SQL & Database Management
+
+ask_me_about:
+  - Python, PHP, Java, MySQL
+  - Data Visualization
+  - Web Development
+  - Machine Learning
+
+interests:
+  - One Piece ðŸ´â€â˜ ï¸
+  - Sword Art Online âš”ï¸
+  - Gaming & Tech
+```
+
+---
+
+### ðŸ› ï¸ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,java,kotlin,flutter,laravel,react,nodejs,js,ts,mysql,mongodb,postgres,git,docker,linux,figma,ps,ai,pr&perline=10" />
+  </a>
+</p>
+
+---
+
+### ðŸ“Š GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robet31&theme=graywhite&show_icons=true&hide_border=false&layout=compact&locale=en&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robet31&theme=graywhite&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats" height="170em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robet31&theme=graywhite&hide_border=false&fire=EBA108&ring=0E75B6" alt="Streak Stats" height="170em" />
+</p>
+
+---
+
+### ðŸ† GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=robet31&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophy" />
+</p>
+
+---
+
+### ðŸ“ˆ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robet31&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</p>
+
+---
+
+### ðŸ“¬ Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arraffi-abqori-nur-azizi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ravnxx_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://dribbble.com/ravnx" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
+  <a href="https://www.behance.net/arraffiabqorina" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>

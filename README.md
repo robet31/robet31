@@ -1,22 +1,10 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://komarev.com/ghpvc/?username=robet31&label=Profile%20Views&color=0e75b6&style=flat" alt="robet31" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:00FF00&height=3&section=header" />
+  <img src="https://raw.githubusercontent.com/robet31/robet31/main/ascii.svg" alt="RAVNXX" />
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=R+A+V+N+X+X;R+A+V+N+X+X;R+A+V+N+X+X" alt="RAVNXX" />
-</h1>
-
-<pre align="center">
-███████   █████   ██   ██  ██   ██  ██   ██  ██   ██
-██   ██  ██   ██  ██   ██  ███  ██   ██ ██    ██ ██ 
-███████  ███████   ██ ██   ████ ██    ███      ███  
-██  ██   ██   ██    ███    ██ ████   ██ ██    ██ ██ 
-██   ██  ██   ██     █     ██  ███  ██   ██  ██   ██
-</pre>
 
 <p align="center">
   <i>Informatics Engineering @ Universitas Trunojoyo Madura</i>

@@ -2,20 +2,20 @@
   <img src="https://komarev.com/ghpvc/?username=robet31&label=Profile%20Views&color=0e75b6&style=flat" alt="robet31" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:00FF00&height=3&section=header" />
+</p>
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;I'm+RAVNXX!;Informatics+Engineering+Student;Data+%26+Web+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=R+A+V+N+X+X;R+A+V+N+X+X;R+A+V+N+X+X" alt="RAVNXX" />
 </h1>
 
----
-
 <pre align="center">
-                    ██████   █████   ██    ██  ██   ██  ██   ██
-                    ██   ██  ██   ██  ██  ██   ██  ██   ██  ██
-                    ██████   ███████   ████    █████    █████
-                    ██   ██  ██   ██    ██     ██  ██   ██  ██
-                    ██   ██  ██   ██    ██     ██   ██  ██   ██
+███████   █████   ██   ██  ██   ██  ██   ██  ██   ██
+██   ██  ██   ██  ██   ██  ███  ██   ██ ██    ██ ██ 
+███████  ███████   ██ ██   ████ ██    ███      ███  
+██  ██   ██   ██    ███    ██ ████   ██ ██    ██ ██ 
+██   ██  ██   ██     █     ██  ███  ██   ██  ██   ██
 </pre>
 
 <p align="center">
@@ -74,3 +74,4 @@
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
 </p>
+

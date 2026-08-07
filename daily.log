@@ -1,1 +1,1 @@
-fix: resolve race condition on async - 2026-07-21
+fix: prevent crash on malformed request - 2026-08-07
